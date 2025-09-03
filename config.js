@@ -1,0 +1,23 @@
+export const nameBand = 'EAGLES ';
+export let nameSongs = [
+	"HOTEL CALIFORNIA", /*1*/
+	"LYIN' EYES", /*2*/
+	"ONE OF THESE NIGHTS", /*3*/
+	"I CAN'T TELL YOU WHY", /*4*/
+	"BEST OF MY LOVE", /*5*/
+	"NEW KID IN TOWN", /*6*/
+	"PEACEFUL EASY FEELING", /*7*/
+	"TAKE IT EASY", /*8*/
+	"LIFE IN THE FAST LANE", /*9*/
+	"HEARTACHE TONIGHT", /*10*/
+	"THE LONG RUN", /*11*/
+	"THOSE SHOES", /*12*/
+	"WITCHY WOMAN", /*13*/
+	"TAKE IT TO THE LIMIT", /*14*/
+	"DESPERADO", /*15*/
+	"TEQUILA SUNRISE", /*16*/
+	"THE LAST RESORT", /*17*/
+	"AFTER THE THRILL IS GONE", /*18*/
+	"WAITING IN THE WEEDS", /*19*/
+	"BUSY BEING FABULOUS", /*20*/
+]
